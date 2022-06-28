@@ -1,0 +1,47 @@
+.container{
+    margin-bottom: 100px;
+
+}
+.carousel-item{
+    padding: 10px 80px;
+    
+}
+.bg-new{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    
+    
+}
+
+.book-now-button{
+    color: white;
+    background-color: black;
+    padding: 9px 25px;
+    border-radius: 7px;
+}
+.ono{
+    align-items: center;
+}
+.text-color{
+    color: goldenrod;
+}
+
+.card{
+    border: none;
+    box-shadow: 1px 1px 10px #80808080;
+    border-radius:10px;
+
+ }
+
+ .underline-block {
+    width: 100px;
+    height: 8px;
+    border-radius: 10px;
+    background-image: linear-gradient(to right, #ff8206, #ffff00);
+  }
+
+  .hot{
+      align-items: center;
+  }
